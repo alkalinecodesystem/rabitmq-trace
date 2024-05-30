@@ -1,0 +1,7 @@
+/home/user/eclipse-workspace/rabitmq-trace/src/main/java/org/exception/rabbitmq/DemoApplication.java
+/home/user/eclipse-workspace/rabitmq-trace/src/main/java/org/exception/rabbitmq/application/service/DemoService.java
+/home/user/eclipse-workspace/rabitmq-trace/src/main/java/org/exception/rabbitmq/infrastructure/consumer/DemoConsumer.java
+/home/user/eclipse-workspace/rabitmq-trace/src/main/java/org/exception/rabbitmq/infrastructure/consumer/config/AmqConfig.java
+/home/user/eclipse-workspace/rabitmq-trace/src/main/java/org/exception/rabbitmq/infrastructure/consumer/event/DemoEvent.java
+/home/user/eclipse-workspace/rabitmq-trace/src/main/java/org/exception/rabbitmq/infrastructure/controller/TestRabbitmqController.java
+/home/user/eclipse-workspace/rabitmq-trace/src/main/java/org/exception/rabbitmq/infrastructure/publisher/DemoPublisher.java
